@@ -1,0 +1,48 @@
+Fan Quests
+1. Fan "Abby" is a woman who is a man-up kind of character and wants to see you take on a "waved" set of enemies "ALL AT ONCE" (super buff midget female)
+2. Fan "Professor Sanguine" is a researcher. Wants you to retrieve samples from one of your fights so that he can study the monsters (just loot something from a corpse).
+    o Just rename an existing odd body part, call it trophy, and store it inside whatever the next monster you fight is.
+3. Fan "Lil' Jimmy" is a kid that wants things to explode. You need to defeat all of the enemies with explosives. (Check with combat pack people)
+4. Fan "Sara" dropped something of theirs in the fight. Asks you to retrieve it. This fan is an agent of another rival. When you pick up their item, it slows you down.
+5. Fan "Stabby Joe" wants to see monsters bleed. If you defeat all of the enemies in the next fight with a bladed melee weapon, he'll convert. (Check with combat pack people)
+6. Fan "James O'Seedie" loves 'order', OCD, has glasses. Wants you to defeat enemies in a particular order 
+7. Fan "Lady Fortune" (skimpy character) wants to see you "move" with your body wide open. Don't wear armor for the next fight.
+8. Fan "Sergei McFahrt" is a racer and loves speed. Complete a match within a set time frame.
+9. Fan "Desmond the Passionate" wants to see one of the enemies watch all the others die. Save a particular enemy for last. (earlier on)
+10. Fan "Dr. Kopf" loves when heads explode. Kill all enemies with headshots.
+11. Fan "Ima Ko-Ming" is obsessed with another Rival. Restraining order in place. Wants you to drop his fanmail in the arena for the next fight.
+12. Fan "Mr. Bot" is a highly refined-manners robot. Wants to "feel" something. Wants to know the excitement of the arena. Gives you pieces of himself to launch into enemies. (Check with combat pack people)
+
+Rival Quests
+- Rival "Chick' n' Dinner" tells you to lose the next game cause he's bet a lot of money on you losing.
+    o You do what he says and he thanks you for your contribution to his Arena fund. That particular Rival gets a large boost to his Arena Points. He will, however, give you a "favor" for 
+      you next match.
+    o You disobey him, and in your next game, he sabotages you, causing you to lose half your health on the next match at the start.
+        > This will require us having some kind of exclamation from the character (in audio) and possibly subtitles listed below.
+          Player will see their health drop and hopefully connect this with the rival character. 
+        > May want to have the Rival waiting outside the door to the arena to confront the player and "wish them luck" while laughing menacingly.
+          Will help to further connect what is happening.
+
+- Rival "Jessie" is in a relationship with a very pathetic Rival "James". You are tasked with making sure she wins a particularly tough fight. You can do this by injuring, but not killing, the
+  tough monster in the cage that she will have to face.
+    o You do nothing, tell him you've "done the deed", the female Rival gets "critically hurt" and the main Rival gets pissed at you. He sicks additional monsters on you in the arena.
+    o You weaken the monster, then the Rival hears of his love's survival and is pleased with you. Gives you some money and a consumable/ammo/etc.
+    o You kill the monster, then the Rival gets mad at you. They've replaced the monster she is facing, and now you'll have to weaken THAT one.
+        > Be sure to place this Rival out of view of the Bestiary so that we can load a new monster immediately without the player seeing it spawn (after talking with the character).
+(Uses State Machine)
+        
+- Rival team-up. Rival doesn't want to die. 
+
+- Rival "Shades" wants to oust a competitor. Asks you to "deal with him". Wears sunglasses.
+    o Intimidate him > Talk to the guy. If you are skilled enough, you can convince him to start losing fights on purpose.
+    o Fix his fight > Give some of your consumables to the monsters in the bestiary to beef them for the guys fight. / Poison him (handed to you by the main Rival)
+
+- Rival "Hackysack" wants you to hack into the Leaderboard terminal and modify the Arena Points for "Squeaks". They have been long-time friends and he is concerned about him. He wants you to decrease his threshold level so that he is no longer facing such difficult enemies.
+    o Give him points > Squeaks gets drunk on power and immediately gets killed in the arena. Hackysack is heartbroken. You get to lose a competitor.
+    o Take away points > Hackysack is happy and gives you some consumables
+
+- Rival Generic "Squeaks" > "*squeak*"
+
+- Rival Generic "Pink-Eyed Willy" > "Don't get too close. Better people than you have died at the sight of my eye." (has a eye-patch)
+
+- Rival Generic "Roundhouse Buck" > "Mess with me and you'll meet my roundhouse kick."
